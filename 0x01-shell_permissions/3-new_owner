@@ -1,2 +1,2 @@
-#!/bin/basnchown
-betty hello
+#!/bin/basn
+chown betty hello
